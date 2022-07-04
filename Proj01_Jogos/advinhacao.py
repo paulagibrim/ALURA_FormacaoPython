@@ -2,7 +2,7 @@
 Novidades:
     - help(print) no console -> definir sep=" " e end="\n"
     - "texto {}".format(variável)
-    - "R$ {:7.2f}.format(1.7)           # formata a saida em numeros de caracacteres iguais
+    - "R$ {:7.2f}.format(1.7)           # formata a saida em números de caracteres iguais
     - "R$ {:07.2f}.format(2.6)          # preenche com zeros
     - "Data: {:02d}.format(2)           # preenche com zeros, sendo inteiro
 """
