@@ -20,7 +20,6 @@ def jogar():
 
 
 
-	print("***************** FIM DE JOGO *****************")
 
 
 if __name__ == "__main__":
